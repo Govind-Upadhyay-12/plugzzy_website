@@ -1,0 +1,19 @@
+{
+  "name": "Plugzzy — EV Charging App India",
+  "short_name": "Plugzzy",
+  "description": "Find nearby EV chargers or earn by sharing your home charger. India's peer-to-peer electric vehicle charging network.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a",
+  "lang": "en-IN",
+  "categories": ["utilities", "lifestyle"],
+  "icons": [
+    {
+      "src": "/images/plugzzy-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

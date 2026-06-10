@@ -62,9 +62,11 @@ export function Hero() {
             transition={{ duration: 0.6, delay: 0.5 }}
             className="mb-8 max-w-lg text-lg leading-relaxed text-gray-600"
           >
-            Your neighbour's driveway is your next charging station.{' '}
+            Plugzzy is India's peer-to-peer EV charging app — find affordable electric
+            vehicle chargers in your neighborhood, or list your home charger and earn
+            passive income every week.{' '}
             <span className="font-medium text-plugzzy-800">
-              Plug in nearby. Earn while you sleep.
+              No more driving miles to a public station.
             </span>
           </motion.p>
 
@@ -118,7 +120,7 @@ export function Hero() {
           <div className="animate-float">
             <PhoneMockup
               src="/images/image-0bfcf7b5-5387-4108-9456-e6e80d8e90a9.png"
-              alt="Plugzzy app onboarding screen"
+              alt="Plugzzy EV charging app — choose to host your charger or find nearby electric vehicle charging stations in India"
               delay={0.2}
               glow
             />
