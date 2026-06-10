@@ -4,7 +4,6 @@ import { Logo } from './Logo'
 const productLinks = [
   { label: 'How it Works', href: '#how-it-works' },
   { label: 'Features', href: '#features' },
-  { label: 'Cities', href: '#cities' },
   { label: 'Benefits', href: '#benefits' },
   { label: 'FAQ', href: '#faq' },
   { label: 'About', href: '#about' },

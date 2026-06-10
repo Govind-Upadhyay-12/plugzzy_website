@@ -5,8 +5,6 @@ import { TwoWays } from './components/TwoWays'
 import { HowItWorks } from './components/HowItWorks'
 import { Organized } from './components/Organized'
 import { Benefits } from './components/Benefits'
-import { CityCoverage } from './components/CityCoverage'
-import { Testimonials } from './components/Testimonials'
 import { FAQ } from './components/FAQ'
 import { SEOContent } from './components/SEOContent'
 import { About } from './components/About'
@@ -33,8 +31,6 @@ export default function App() {
         <HowItWorks />
         <Organized />
         <Benefits />
-        <CityCoverage />
-        <Testimonials />
         <FAQ />
         <SEOContent />
         <About />
